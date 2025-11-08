@@ -35,7 +35,6 @@
 - Initial investment: €2,000 (analysis time + staff training)
 - Payback period: **2 weeks**
 - Savings year 1: €40,000+ (assuming 90% implementation)
-- **ROI: 2,000%**
 
 ### **Success metrics:**
 - Food cost % overall: 29% → 27%
@@ -82,7 +81,6 @@
 - Investimento iniziale: €2,000 (tempo analisi + formazione staff)
 - Payback period: **2 settimane**
 - Risparmio anno 1: €40,000+ (assumendo 90% implementazione)
-- **ROI: 2,000%**
 
 ### **Metriche di successo:**
 - Food cost % complessivo: 29% → 27%
