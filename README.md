@@ -44,8 +44,8 @@
 - Tracking: Weekly dashboard on KPI
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-#Analisi del food cost e riduzione degli sprechi per ristoranti con Python <br>
-##• Per questo progetto ho usato un dati sintetici, non replicano nella realtà (sarebbe grave) le cifre di un ristorante ma è inmteressante il lavoro eseguito perchè replicabile
+# Analisi del food cost e riduzione degli sprechi per ristoranti con Python <br>
+## • Per questo progetto ho usato un dati sintetici, non replicano nella realtà (sarebbe grave) le cifre di un ristorante ma è inmteressante il lavoro eseguito perchè replicabile
 
 ## OSSERVAZIONI FINALI
 
